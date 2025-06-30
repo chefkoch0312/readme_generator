@@ -22,7 +22,7 @@ git clone https://github.com/chefkoch0312/readme_generator
 
 ## **▶️ Verwendung**
 
-python readme_generator
+python .\readme_generator.py
 
 ## **🧾 Lizenz**
 
