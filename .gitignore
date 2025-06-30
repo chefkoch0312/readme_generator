@@ -1,0 +1,43 @@
+# Byte-kompilierte Python-Dateien
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Verteilungs- und Paketierungsdateien
+.Python
+build/
+dist/
+eggs/
+*.egg-info
+
+# Editor-spezifische Dateien (Beispiele)
+.idea/      # PyCharm-Projekte
+.vscode/    # VS Code-Einstellungen
+*.swp       # Vim temporäre Dateien
+*~          # Emacs temporäre Dateien
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+
+# Betriebssystem-Dateien
+.DS_Store   # macOS
+Thumbs.db   # Windows
+ehthumbs.db # Windows
+
+# Test- und Debugging-Dateien
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+
+# Datenbank-Dateien (Beispiele)
+*.sqlite3
+*.db
+*.bak
+
+# Lokale Konfigurationsdateien (die nicht versioniert werden sollen)
+config.ini
+.env
